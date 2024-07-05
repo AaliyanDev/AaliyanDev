@@ -7,5 +7,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am the worlds youngest
    Web developer
+  <hr>
 
 
