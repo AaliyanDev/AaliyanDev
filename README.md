@@ -1,16 +1,30 @@
-## Hi there 👋
+# Ahmed Aaliyan
 
-<!--
-**aaliyandev/aaliyandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Engineer focused on product design, UX, frontend engineering, and AI.
 
-Here are some ideas to get you started:
+I build thoughtful digital products with an emphasis on usability,
+interaction design, performance, and high-quality frontend implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Product Design
+- UX Engineering
+- Frontend Engineering
+- UI Engineering
+- AI-native products
+- Developer Experience
+- Design Systems
+- Web Performance
+- Frontend Architecture
+
+## Technologies
+
+JavaScript · React · Astro · Next.js · Tailwind CSS · GSAP ·
+
+## Website
+
+https://aaliyan.dev
+
+## Connect
+
+X: https://x.com/aaliyan_dev
