@@ -19,7 +19,7 @@ interaction design, performance, and high-quality frontend implementation.
 
 ## Technologies
 
-JavaScript · React · Astro · Next.js · Tailwind CSS · GSAP ·
+JavaScript · React · Astro · Next.js · Tailwind CSS · GSAP 
 
 ## Website
 
